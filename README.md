@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an Oslo based software engineer.
+I'm am a software engineer based in Oslo, Norway.
 
 <!--
 **ianrobrien/ianrobrien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
