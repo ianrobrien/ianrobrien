@@ -4,7 +4,7 @@ end_of_line = lf
 indent_size = 2
 indent_style = space
 insert_final_newline = true
-max_line_length = 100
+max_line_length = 120
 tab_width = 2
 ij_continuation_indent_size = 4
 ij_formatter_off_tag = @formatter:off
@@ -42,6 +42,7 @@ ij_xml_space_inside_empty_tag = false
 ij_xml_text_wrap = normal
 
 [{*.yaml,*.yml}]
+max_line_length = 140
 ij_yaml_keep_indents_on_empty_lines = false
 ij_yaml_keep_line_breaks = true
 ij_yaml_space_before_colon = false
