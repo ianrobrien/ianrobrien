@@ -6,24 +6,26 @@ computers, electronics and coding since I was a child, and received my formal
 education in Computer Engineering from the Thomas J. Watson College of
 Engineering and Applied Science in Binghamton, NY.
 
-My coding interests are:
+#### My coding interests are
 
 - 🤖 Automation
 - ⚙️ DevOps
 - 🔒 Security
 
-My hobbies are:
+#### My hobbies are
 
 - 🎸 Playing the guitar
 - 🎮 Video games
 - 🔓 Hardware and electronics modification/hacking
 
-I speak:
+#### I speak
 
 - 🇺🇸 English (Native)
 - 🇳🇴 Norwegian (Proficient)
 
-#### GitHub Stats
+### GitHub Stats
+
+My personal GitHub stats. Does not include professional activities.
 
 <!-- markdownlint-disable MD013 MD045 -->
 <a href="https://github.com/ianrobrien/github-readme-stats">
