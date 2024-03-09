@@ -28,12 +28,20 @@ Engineering and Applied Science in Binghamton, NY.
 My personal GitHub stats. Does not include professional activities.
 
 <!-- markdownlint-disable MD013 MD045 -->
-<a href="https://github.com/ianrobrien/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-orcin-delta-16.vercel.app/api?username=ianrobrien&show_icons=true&hide_rank=true&hide=stars&include_all_commits=true&theme=onedark" />
-</a>
-<a href="https://github.com/ianrobrien/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ianrobrien&theme=onedark&layout=compact&langs_count=8&card_width=320" />
-</a>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-orcin-delta-16.vercel.app/api?username=ianrobrien&show_icons=true&hide_rank=true&hide=stars&include_all_commits=true&theme=onedark"
+  />
+  <img height=200 align="center" src= "https://github-readme-stats-orcin-delta-16.vercel.app/api?username=ianrobrien&show_icons=true&hide_rank=true&hide=stars&include_all_commits=true"/>
+</picture>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ianrobrien&theme=onedark&layout=compact&langs_count=8&card_width=320"
+  />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ianrobrien&layout=compact&langs_count=8&card_width=320" />
+</picture>
 <!-- markdownlint-enable MD013 MD045 -->
 
 <!--
