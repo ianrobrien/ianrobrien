@@ -25,7 +25,7 @@ Engineering and Applied Science in Binghamton, NY.
 
 ### GitHub Stats
 
-_Note Does not include professional/organizational activities_
+_Does not include professional/organizational activities_
 
 <picture>
   <source
