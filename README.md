@@ -25,12 +25,14 @@ I speak:
 
 #### GitHub Stats
 
+<!-- markdownlint-disable MD013 MD045 -->
 <a href="https://github.com/ianrobrien/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-orcin-delta-16.vercel.app/api?username=ianrobrien&show_icons=true&hide_rank=true&hide=stars&include_all_commits=true&theme=onedark" />
 </a>
 <a href="https://github.com/ianrobrien/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ianrobrien&theme=onedark&layout=compact&langs_count=8&card_width=320" />
 </a>
+<!-- markdownlint-enable MD013 MD045 -->
 
 <!--
 **ianrobrien/ianrobrien** is a ✨ _special_ ✨ repository because its `README.md`
