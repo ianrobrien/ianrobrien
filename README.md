@@ -23,6 +23,15 @@ I speak:
 - 🇺🇸 English (Native)
 - 🇳🇴 Norwegian (Proficient)
 
+#### GitHub Stats
+
+<a href="https://github.com/ianrobrien/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-orcin-delta-16.vercel.app/api?username=ianrobrien&hide_rank=true&include_all_commits=true&theme=onedark" />
+</a>
+<a href="https://github.com/ianrobrien/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ianrobrien&theme=onedark&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 <!--
 **ianrobrien/ianrobrien** is a ✨ _special_ ✨ repository because its `README.md`
 (this file) appears on your GitHub profile.
