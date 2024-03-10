@@ -30,9 +30,9 @@ _Does not include professional/organizational activities_
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-orcin-delta-16.vercel.app/api?username=ianrobrien&show_icons=true&hide_rank=true&hide=stars&include_all_commits=true&disable_animations=true&card_width=364&theme=onedark"
+    srcset="https://github-readme-stats-orcin-delta-16.vercel.app/api?username=ianrobrien&show_icons=true&hide_rank=true&hide=stars&disable_animations=true&card_width=364&theme=onedark"
   />
-  <img height=200 align="center" src= "https://github-readme-stats-orcin-delta-16.vercel.app/api?username=ianrobrien&show_icons=true&hide_rank=true&hide=stars&include_all_commits=true&card_width=364&disable_animations=true"/>
+  <img height=200 align="center" src= "https://github-readme-stats-orcin-delta-16.vercel.app/api?username=ianrobrien&show_icons=true&hide_rank=true&hide=stars&card_width=364&disable_animations=true"/>
 </picture>
 <picture>
   <source
