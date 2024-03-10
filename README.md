@@ -37,7 +37,7 @@ _Does not include professional/organizational activities_
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-orcin-delta-16.vercel.app/api/top-langs?username=ianrobrien&theme=onedark&layout=compact&langs_count=8&card_width=320&disable_animations=true"
+    srcset="https://github-readme-stats-orcin-delta-16.vercel.app/api/top-langs?username=ianrobrien&theme=onedark&layout=compact&langs_count=8&card_width=365&disable_animations=true"
   />
-  <img height=200 align="center" src="https://github-readme-stats-orcin-delta-16.vercel.app/api/top-langs?username=ianrobrien&layout=compact&langs_count=8&card_width=320&disable_animations=true" />
+  <img height=200 align="center" src="https://github-readme-stats-orcin-delta-16.vercel.app/api/top-langs?username=ianrobrien&layout=compact&langs_count=8&card_width=365&disable_animations=true" />
 </picture>
