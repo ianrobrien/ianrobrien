@@ -4,6 +4,8 @@ name: Dependencies
 on:
   pull_request:
 
+permissions: read-all
+
 jobs:
   dependabot:
     runs-on: ubuntu-latest
